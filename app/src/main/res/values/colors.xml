@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFA938</color>
+    <color name="colorPrimaryDark">#A6670B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="textColor">#844046</color>
+    <color name="backgroundColor">#FEF1E0</color>
+    <color name="darkRed">#912402</color>
+    <color name="white">#FFFFFF</color>
+    <color name="buttonTextColor">#929292</color>
+    <color name="lightGray">#7E7C7C</color>
+    <color name="minutesColor">#731C01</color>
+</resources>
