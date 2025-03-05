@@ -31,14 +31,13 @@
         android:textSize="25sp"
         android:textStyle="bold"/>
 
-
     <Button
         android:id="@+id/btnDatePicker"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Select Date"
         android:layout_marginTop="55dp"
-        android:background="@color/white"
+        android:backgroundTint="@color/white"
         android:textStyle="bold"
         android:textSize="20sp"
         android:textColor="#929292"/>
