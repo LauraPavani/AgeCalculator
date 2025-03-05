@@ -6,6 +6,7 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
         <item name="windowActionBar">true</item>
         <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:colorBackground">@color/colorPrimary</item>
         <item name="android:actionBarSize">90dp</item>
     </style>
 
